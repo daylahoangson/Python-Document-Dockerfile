@@ -42,7 +42,7 @@ print ('Kết quả:', [a, b, c, d, e, f, g])
 C = 30 #bán kính
 # diện tích hình tròn
 pi = 3.14
-area_of_circle = pi * C** 2
+area_of_circle = pi * C** 25
 print('Diện tích hình tròn là: ', area_of_circle)
 # chu vi hình tròn
 circumference_of_circle = 2 * pi * C

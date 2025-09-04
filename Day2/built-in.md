@@ -57,7 +57,7 @@ print(num_int)
 num_str = str(num_str)
 Print (num_str) # '20'
 
-#num_str to int and float 
+# num_str to int and float 
 
 num_str = '10.333333'
 print('num_int') #10 
@@ -73,9 +73,10 @@ print(first_name_to_lisst)   #['a', 'r', 'n', 'o', 'l', 'd']
 ## Bài tập
 Level 1
 
-1. Bên trong 30DaysOfPython, tạo một thư mục có tên day_
+1. Bên trong 30DaysOfPython, tạo một thư mục có tên day2
 
 2. Trong thư mục này, tạo một tệp có tên là variables.py
+
 3. Khai báo các biến dưới và gán giá trị cho nó:
 a. Khai báo một biến tên
 b.Khai báo một biến họ
@@ -94,6 +95,6 @@ bạn bằng hàm type()
 3. Khai báo 5 là num_one và 4 là num_two. Thực hiện các phép tính cơ bản gồm: cộng, trừ, nhân, chia, chia lấy nguyên, chia lấy dư và gán cho mỗi phép tính cho 1 biến khác nhau.
 4. Bán kính của hình tròn là 30 mét.
 a. Tính diện tích hình tròn và gán giá trị cho tên biến area_of_circle
-b. Tính chu vi của một vòng tròn và gán giá trị cho một tên biến circle_of_circle
+b. Tính chu vi của một vòng tròn và gán giá trị cho một tên biến circumference_of_circle
 c. Cho phép người dùng nhập bán kình và tính diện tích.
 5. Sử dụng hàm input() để lấy tên, họ, quốc gia và tuổi từ người dùng và lưu giá trị vào tên biến tương ứng

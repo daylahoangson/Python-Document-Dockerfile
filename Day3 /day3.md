@@ -91,6 +91,29 @@ print( 'a in an:', 'a' in 'an') # True
 
 print('4 is 2 ** 2:', 4 is 2 ** 2) # True
 
+# Toán tử logic 
+Không giống như các ngôn ngữ lập trình khác, python sử dụng từ khoá and, or not cho các toán tử logic. Các toán tử logic được sử dụng để kết hợp các câu lệnh điều kiện: 
 
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+# Bài tập
+
+Level 1
+1.Khai báo tuổi dưới dạng biến số nguyên
+2.Khai báo chiều cao dưới dạng biến float
+3.Khai báo biến lưu số phức
+
+Level 2
+1.Viết chương trính nhập đáy và chiều cao. Tính
+diện tích tam giác đó.
+2.Kiểm tra giá trị nhập vào có phải số sẵn hay
+không.
+3.Viết chương trình tính lương tuần bằng cách
+nhập số giờ làm việc và lương mỗi giờ.
+4.Viết chương trình tính số giây sống được bằng
+cách nhập số năm. Ví dụ 100 năm = 3153600000
+giây.
 
 
