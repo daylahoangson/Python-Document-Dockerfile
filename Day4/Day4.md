@@ -1,4 +1,4 @@
-### Chuỗi 
+# Chuỗi 
  Văn bản là một kiểu dữ liệu chuỗi. Bất kỳ loại dữ liệu nào được viết dưới dạng văn bản đều là chuỗi. Python có các phương thức chuỗi khác nhau và các hàm có sẵn để xử lý các chuỗi. Để kiểm tra độ dài của chuỗi, bạn có thể dử dụng hàm **len()**.
 
  ![alt text](image.png)
