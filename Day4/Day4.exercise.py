@@ -29,7 +29,7 @@ print(methods.split(', '))
 # 6. "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon" tách chuỗi trên bằng dấu phẩy.
 
 challenge = "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon"
-print (challenge.split(' '))
+print (challenge.split(''))
 challenge = "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon"
 print (challenge.split(', '))
 

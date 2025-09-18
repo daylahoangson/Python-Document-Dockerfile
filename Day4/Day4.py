@@ -35,7 +35,7 @@ print (len(first_name) == len(last_name)) # True
 print (len(first_name) != len(last_name)) # False
 
 
-print( 'Hello\nWorld*) # Xuông dòng 
+print( 'Hello\nWorld') #Xuông dòng 
 print( 'Thu thach \t30 ngay \thoc Python') # Thêm tab 
 print( 'Dau gach cheo nguoc (\\)') # Thêm dầu gạch chéo ngược 
 print( 'Dau nhay kep \"Hello, WorldI\"') # Dầu nhấy kép trong
@@ -57,5 +57,63 @@ print(formated_string) # Diện tích hình tròn bán kính 10 là 314.00
 python_libraries = ['Django', 'Flask', 'NumPy', 'Pandas', 'Matplotlib', 'Python']
 formated_string = 'Các thư viện Python phổ biến: %s' % (python_libraries)
 print(formated_string) # Các thư viện Python phổ biến: ['Django', 'Flask', 'NumPy', 'Pandas', 'Matplotlib', 'Python']
+
+first_name = 'Soon'
+last_name = 'Pham'
+language = 'Python'
+formated_string = 'I am {} {}. I am learning {}'.format(first_name, last_name, language)
+print(formated_string)
+a = 4
+b = 3
+
+print ('{} + {} = {} ', format(a, b, a + b))
+print ('{} - {} = {} ', format(a, b, a - b))
+print ('{} * {} = {} ', format(a, b, a * b))
+print ('{} / {} = {} ', format(a, b, a / b))
+print ('{} % {} = {} ', format(a, b, a % b))
+print ('{} // {} = {} ', format(a, b, a // b))
+print ('{} ** {} = {} ', format(a, b, a ** b))
+
+# Kết quả 
+4 + 3 = 7
+4 - 3 = 1  
+4 * 3 = 12
+4 / 3 = 1.3333333333333333
+4 % 3 = 1
+4 // 3 = 1
+4 ** 3 = 64
+
+# Chuỗi và số 
+radius = 10 
+pi = 3.14
+area = pi * radius ** 2
+formated_string = 'Diện tích hình tròn có bán kính {} là {:.2f}'.format(radius, area) # làm tròn 2 chữ số thập phân
+print (formated_string) # Diện tích hình tròn có bán kính 10 là 314.00
+
+
+a = 3 
+b = 5
+print (f'{a} + {b} = {a + b}')
+print (f'{a} - {b} = {a - b}')
+print (f'{a} * {b} = {a * b}')
+print (f'{a} / {b} = {a / b}')
+print (f'{a} % {b} = {a % b}')
+print (f'{a} // {b} = {a // b}')
+print (f'{a} ** {b} = {a ** b}')
+
+language = 'Python'
+a,b,c,d,e,f = language
+print (a) # P
+print (b) # y
+print (c) # t
+print (d) # h
+print (e) # o
+print (f) # n
+
+langage = 'Python'
+pto = langage [0 : 6 : 2] # Nhảy 2 index khi lấy được ký tự 
+print (pto) # Pto
+
+
 
 

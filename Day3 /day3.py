@@ -14,7 +14,7 @@ print(not not False) # False
 
 
 # 1. Khai báo tuổi dưới dạng số nguyên (int)
-tuoi = 23git add.
+tuoi = 23
 
 
 # 2. Khai báo chiều cao dưới dạng số thực (float)

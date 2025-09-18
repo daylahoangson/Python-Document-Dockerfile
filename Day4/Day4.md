@@ -166,9 +166,12 @@ Bạn có thể bỏ qua các ký tự không mong muốn bằng cách thêm bư
 
 1. Nối chuỗi 'Ba muoi','ngay','hoc','Python' thành một chuỗi duy nhất,'Ba muoi ngay hoc Python'.
 2. Thay đổi tất cả các ký tự thành chữ in hoa bằng phương thức upper().
-3. Sử dụng các phương thức capitalize(), title(), swapcase() để định dạng giá trị của chuỗi Coding For All. Kiểm tra xem chuỗi Coding For All có chứa từ
-4. Coding hay không bằng cách sử dụng phương thức index, find hoặc các phương thức khác.
+3. Sử dụng các phương thức capitalize(), title(), swapcase() để định dạng giá trị của chuỗi Coding For All. 
+4.  Kiểm tra xem chuỗi Coding For All có chứa từ Coding hay không bằng cách sử dụng phương thức index, find hoặc các phương thức khác.
 5. Tách chuỗi 'capitalize(), title(), swapcase()' bằng cách sử dụng split().
 6. "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon" tách chuỗi trên bằng dấu phẩy.
 7. In các dòng dưới bằng cách định dạng chuỗi.
+
+![alt text](image-35.png)
+
 
