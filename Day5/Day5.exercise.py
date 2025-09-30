@@ -13,7 +13,7 @@ middle_lenght = frist_lenght // 2
 last_lenght = frist_lenght - 1
 print (it_companies[0], it_companies[middle_lenght], it_companies[last_lenght])
 
-# 4. in danh sách sau khi sửa đổi một trong các công ty
+# 4. In danh sách sau khi sửa đổi một trong các công ty
 
 it_companies[0] = 'Meta'
 print (it_companies)
@@ -59,7 +59,7 @@ print (it_companies)
 
 ## Level 2
 
-# Danh sách tuổi 10 học sinh : age = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
+# 1. Danh sách tuổi 10 học sinh : age = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 age = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 
 # 2. sắp xếp danh sách và tìm tuổi nhỏ nhất và lớn nhắt 
