@@ -4,6 +4,7 @@ Theo mặc định, các câu lệnh trong Python **được thực thi từ tr�
 - Sử dụng vòng lặp: Một block sẽ được thực thi lặp đi lặp lại miễn là điều kiện còn đúng 
 
 Trong bài học này, chúng ta sẽ tìm hiểu các câu lệnh **if, else, elif**. Các bạn sẽ được sử dụng các toán tử so sánh lgic mà chúng ta đã học ở bài trước. 
+
 ![alt text](image.png)
 
 Trong python và các ngôn ngữ lập trình khác, từ khóa **if** được sử dụng để kiểm tra xem một điều kiện có đúng hay không để thực thi block code. Bạn cần lùi (thụt) đầu dòng sau dấu hai chấm ":" để viết block code. 
