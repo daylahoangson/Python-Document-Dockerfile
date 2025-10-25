@@ -44,7 +44,7 @@ Nếu bạn không biết số lượng đối số mà mình truyền vào hàm
 
 ![alt text](image-6.png)
 
-## Hảm là đối số 
+### Hàm là đối số 
 
 Hàm cũng có thể được truyền như một đối số của hàm khác. 
 
