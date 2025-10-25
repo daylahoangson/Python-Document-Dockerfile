@@ -61,7 +61,7 @@ Level 1
 
 4. Viết hàm reverse_list dùng để đảo ngược mảng (sử dụng vòng lặp).
 
-Le﻿ vel 2
+Le﻿vel 2
 1. Viết hàm is_prime để kiểm tra xem một số có phải là số nguyên tố hay không.
 
 2. Viết một hàm kiểm tra xem tất cả các phần tử có phải là duy nhất trong list hay không.
