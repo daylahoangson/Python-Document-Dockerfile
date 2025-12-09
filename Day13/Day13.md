@@ -40,7 +40,7 @@ Nếu bạn muốn sử dụng hàm lambda bên trong một hàm khác thì có 
 
 ![alt text](image-6.png)
 
-3. Chuyển list dứoi thành dictionary 
+3. Chuyển list dưới thành dictionary 
 
 ![alt text](image-7.png)
 
