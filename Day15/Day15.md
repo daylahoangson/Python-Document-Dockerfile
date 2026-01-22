@@ -43,7 +43,7 @@ Như bạn đã thấy từ thông báo lỗi, biến age chưa được định
 ### TypeErros 
 
 **TypeErros** là những lỗi liên quan đến thao tác giữa 2 kiểu dữ liệu, thường là string và int. Như ví dụ dưới, TypeError xuất hiện vì mình cộng số với chuỗi. Giải pháp chuyển 1 trong 2 về cùng một kiểu dữ liệu. 
-
+git
 ![alt text](image-6.png)
 
 ### ImportError
