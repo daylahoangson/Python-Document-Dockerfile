@@ -1,6 +1,5 @@
 ## Bài tập 
 ## 1. Lấy ngày, tháng, năm, giờ, phút và timestamp hiện tại từ module datetimebn.  
-
 from datetime import datetime
 
 now = datetime.now()
@@ -26,5 +25,6 @@ print("Thời gian còn lại đến năm mới:", time_left)
 epoch = datetime(1970, 1, 1)
 time_since_epoch = now - epoch
 print("Thời gian từ 1/1/1970 đến hiện tại:", time_since_epoch)
+
 
 

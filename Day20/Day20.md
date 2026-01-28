@@ -63,6 +63,5 @@ Giờ mình sẽ thửu sử dụng gói package đã tạo. File init.py lưu t
 
 2. Tự tạo package tạo mật khẩu ngẫu nhiên có chữ thường, chữ hoa và số. Package này sẽ có 1 tham số là độ dài của mật khẩu.
 
-3. Tạo packge sắp xếp list có tham số là cách cách sắp xếp. Ví
-dụ 0 là từ lớn đề bé, 1 là từ bé đến lớn.
+3. Tạo packge sắp xếp list có tham số là cách sắp xếp. Ví dụ 0 là từ lớn đề bé, 1 là từ bé đến lớn.
 

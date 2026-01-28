@@ -46,7 +46,7 @@ Dưới đây là **các ký hiệu (format codes) của `strftime`** thường 
 
 | Ký hiệu | Ý nghĩa                           | Ví dụ  |
 | ------- | --------------------------------- | ------ |
-| `%A`    | Tên thứ đầy đủ                    | Monday |
+| `%A`    | Tên thứ đầy đủ                    | Monday |.  
 | `%a`    | Tên thứ viết tắt                  | Mon    |
 | `%w`    | Thứ (0=Chủ nhật)                  | 1      |
 | `%W`    | Số tuần trong năm (bắt đầu Thứ 2) | 05     |
@@ -103,3 +103,4 @@ Bạn có thể chuyển một chuỗi thời gian sang định dạng datetimne
 3. Chuyển chuỗi "14 June, 2023" sang datetime.
 4. Tính thời gian từ giờ đến năm mới còn bao nhiêu lâu nữa 
 5. Tính thời gian từ ngày 1 tháng 1 năm 1970 đến hiện tại. 
+   

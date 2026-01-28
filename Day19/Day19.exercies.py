@@ -24,7 +24,7 @@ info_me = {
 import json
 with open('me.json', 'w') as json_file:
     json.dump(info_me, json_file)
-    
+
 # 4 Lấy 1 file bất kỳ, lập danh sách top 3 từ được dùng nhiều nhất. Đếm số dòng có từ đó. Tìm dòng có nhiều từ đó nhất.
 def top_3_words(file):
     with open(file, 'r') as f:
@@ -35,3 +35,5 @@ def top_3_words(file):
             word_count[word] = word_count.get(word, 0) + 1
         top_3 = sorted(word_count.items(), key=lambda x: x[1], reverse=True)[:3]
         return top_3
+    
+    
