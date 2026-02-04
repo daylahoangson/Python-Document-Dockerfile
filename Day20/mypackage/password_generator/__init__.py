@@ -1,1 +1,1 @@
-from password_generator.generator import generate_password
+from Day20.mypackage.password_generator.generator import generate_password
